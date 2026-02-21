@@ -1,0 +1,17 @@
+{
+  "name": "magic-momo-bot",
+  "version": "1.0.0",
+  "description": "A Wise Bird Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alanimus",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.95.0"
+  }
+}
