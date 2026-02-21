@@ -1,5 +1,9 @@
 # Magic Momo Bot 🎱
 
+<p align="center">
+  <img src="assets/8ball%20momo.png" alt="Bot Avatar" width="150" height="150">
+</p>
+
 A sassy Discord bot that acts as a Magic 8 Ball with attitude. This bot features a bitchy bird personality trapped inside a Magic 8 Ball, providing sarcastic and humorous responses to your yes/no questions.
 
 ## Features
